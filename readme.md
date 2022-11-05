@@ -2,6 +2,10 @@
 
 - This is a Clipboard app.
 
+[Netlify](https://clipboardapp-harshcodes.netlify.app/)
+
+![](https://img.shields.io/badge/Netlify-Link-green)
+
 ![Clipboard](/images/clipboard.png)
 
 ---
